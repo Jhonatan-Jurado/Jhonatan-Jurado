@@ -2,7 +2,7 @@
 
 A Physics student passionate about computational science, data analysis, and solving complex problems through code and mathematics.
 
-- 📄 My Resume (Español) – [Ver aquí](https://drive.google.com/drive/folders/1vc3MBmkkJ8tlAB3DV5eI32xUcEol_RR1?usp=sharing)
+- 📄 My Resume (Español) – [Ver aquí](https://drive.google.com/file/d/1MMfc_9uugz0FHm50Z1N-Wk68Qd3FMLNW/view?usp=sharing)
 - 👨‍🔬 I’m currently working on **Physical simulations using Python**
 - 📊 I’m currently learning **Machine Learning and Deep Learning**
 - 👯 I’m looking to collaborate on **data science and computational projects**
